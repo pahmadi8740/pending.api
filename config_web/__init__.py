@@ -49,6 +49,7 @@ from . import mgigene2phenotype  # use plugin "mgi_gene2phenotype"
 from . import mondo
 from . import mrcoc  # use plugin "bte_filter"
 from . import multiomics_clinicaltrials_kp
+from . import multiomics_drug_approvals_kp
 from . import multiomics_ehr_risk_kp  # use plugin "clinical_risk_kp"
 from . import multiomics_wellness
 from . import ncit
@@ -56,6 +57,7 @@ from . import node_expansion  # an integration of 'pending-go', 'pending-doid', 
 from . import pfocr
 from . import phewas
 from . import pseudocap_go
+from . import pubtator3
 from . import rare_source
 from . import repodb
 from . import rhea
